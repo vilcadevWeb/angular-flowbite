@@ -1,0 +1,11 @@
+section{
+  padding: 50px 0;
+}
+
+h1, h2{
+  background: #5F9BE8;
+background: linear-gradient(to right, #5F9BE8 0%, #B968E8 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+}
